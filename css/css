@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A-gd-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A7Yd-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A4Qd-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A2ga-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A1Ea-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3AzYa-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: italic;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3Ax8a-Ew84Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_chQG5XyEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_d_QG5XyEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_dNQG5XyEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_ehR25XyEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_eYR25XyEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_f_R25XyEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_fWR25XyEU.ttf) format('truetype');
+}

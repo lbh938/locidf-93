@@ -1,0 +1,625 @@
+{
+  "site_id": "6856afca69c1086451cbfd3c",
+  "elements": [
+    {
+      "w_id": "c26a5b40-3121-2628-4363-b3aada6c4087",
+      "tag": "div",
+      "classes": [
+        "navbar",
+        "w-nav"
+      ],
+      "html": "<div class=\"navbar w-nav\" data-animation=\"default\" data-collapse=\"all\" data-duration=\"400\" data-easing=\"ease\" data-easing2=\"ease\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c4087\" role=\"banner\"><div class=\"content-wrapper-default\"><div class=\"navbar-wrapper\"><div class=\"nav-logo-link\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c408a\" style=\"opacity: 1;\"><a aria-label=\"home\" class=\"logo-link w-nav-brand\" data-w-id=\"409930be-4b6f-4aa7-5796-348a5654b660\" href=\"/\"><div class=\"link-text-wrapper\"><img a"
+    },
+    {
+      "w_id": "c26a5b40-3121-2628-4363-b3aada6c408a",
+      "tag": "div",
+      "classes": [
+        "nav-logo-link"
+      ],
+      "html": "<div class=\"nav-logo-link\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c408a\" style=\"opacity: 1;\"><a aria-label=\"home\" class=\"logo-link w-nav-brand\" data-w-id=\"409930be-4b6f-4aa7-5796-348a5654b660\" href=\"/\"><div class=\"link-text-wrapper\"><img alt=\"Logo\" class=\"link-text\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6863a7d749380244400cadf0_ec84ea29b2cc7723b4b9b2449bd3b59c_logo.svg\"/><img alt=\"Logo\" class=\"link-text-hover\" loading=\"eager\" src=\"https://cdn.prod.we"
+    },
+    {
+      "w_id": "409930be-4b6f-4aa7-5796-348a5654b660",
+      "tag": "a",
+      "classes": [
+        "logo-link",
+        "w-nav-brand"
+      ],
+      "html": "<a aria-label=\"home\" class=\"logo-link w-nav-brand\" data-w-id=\"409930be-4b6f-4aa7-5796-348a5654b660\" href=\"/\"><div class=\"link-text-wrapper\"><img alt=\"Logo\" class=\"link-text\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6863a7d749380244400cadf0_ec84ea29b2cc7723b4b9b2449bd3b59c_logo.svg\"/><img alt=\"Logo\" class=\"link-text-hover\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6863a7d749380244400cadf0_ec84ea29b2cc7723b4b9b2449bd3b5"
+    },
+    {
+      "w_id": "c26a5b40-3121-2628-4363-b3aada6c408e",
+      "tag": "div",
+      "classes": [
+        "nav-models-dropdown",
+        "w-dropdown"
+      ],
+      "html": "<div class=\"nav-models-dropdown w-dropdown\" data-delay=\"0\" data-hover=\"false\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c408e\" style=\"opacity: 1;\"><div aria-controls=\"w-dropdown-list-0\" aria-expanded=\"false\" aria-haspopup=\"menu\" class=\"nav-dropdown-toggle w-dropdown-toggle\" id=\"w-dropdown-toggle-0\" role=\"button\" tabindex=\"0\"><div>Modèles</div><img alt=\"Bottom Arrow Icon\" class=\"nav-dropdown-icon\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/68695011fff14c231d73"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/rapt-horizon.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Rapt Horizon</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Rapt Horizon</div></div></a>"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/velocit-crest.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Velocit Crest</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Velocit Crest</div></div></a>"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/xplorer-glide.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Xplorer Glide</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Xplorer Glide</div></div></a>"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/cest-tunder.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Cest Tunder</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Cest Tunder</div></div></a>"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/glide-vortex.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Glide Vortex</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Glide Vortex</div></div></a>"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/sumit-senity.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Sumit Senity</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Sumit Senity</div></div></a>"
+    },
+    {
+      "w_id": "b18ddafa-3b83-6229-9600-867b3164b7b3",
+      "tag": "a",
+      "classes": [
+        "link-regular",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-regular w-inline-block\" data-w-id=\"b18ddafa-3b83-6229-9600-867b3164b7b3\" href=\"models/senity-pulse.html\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Senity Pulse</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Senity Pulse</div></div></a>"
+    },
+    {
+      "w_id": "c26a5b40-3121-2628-4363-b3aada6c4098",
+      "tag": "form",
+      "classes": [
+        "nav-search-wrapper",
+        "w-form"
+      ],
+      "html": "<form action=\"/search\" class=\"nav-search-wrapper w-form\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c4098\" style=\"opacity: 1;\"><input class=\"nav-search-input w-input\" id=\"search-field-desktop-tablet\" maxlength=\"256\" name=\"query\" placeholder=\"Rechercher…\" required=\"\" type=\"search\"/><input class=\"nav-search-button w-button\" type=\"submit\" value=\"\"/></form>"
+    },
+    {
+      "w_id": "c26a5b40-3121-2628-4363-b3aada6c409b",
+      "tag": "div",
+      "classes": [
+        "nav-menu-dropdown",
+        "w-dropdown"
+      ],
+      "html": "<div class=\"nav-menu-dropdown w-dropdown\" data-delay=\"0\" data-hover=\"false\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c409b\"><div aria-controls=\"w-dropdown-list-1\" aria-expanded=\"false\" aria-haspopup=\"menu\" class=\"menu-button w-dropdown-toggle\" id=\"w-dropdown-toggle-1\" role=\"button\" tabindex=\"0\"><div class=\"menu-icon\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c409d\" style=\"opacity: 1;\"><div class=\"top\"></div><div class=\"middle\"></div><div class=\"bottom\"></div></div></div><nav aria-labelledby=\"w-"
+    },
+    {
+      "w_id": "c26a5b40-3121-2628-4363-b3aada6c409d",
+      "tag": "div",
+      "classes": [
+        "menu-icon"
+      ],
+      "html": "<div class=\"menu-icon\" data-w-id=\"c26a5b40-3121-2628-4363-b3aada6c409d\" style=\"opacity: 1;\"><div class=\"top\"></div><div class=\"middle\"></div><div class=\"bottom\"></div></div>"
+    },
+    {
+      "w_id": "64c993f7-4943-d543-dc57-ffb19f2ae0f3",
+      "tag": "a",
+      "classes": [
+        "link-large",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-large w-inline-block\" data-w-id=\"64c993f7-4943-d543-dc57-ffb19f2ae0f3\" href=\"/\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Accueil</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Accueil</div></div></a>"
+    },
+    {
+      "w_id": "64c993f7-4943-d543-dc57-ffb19f2ae0f3",
+      "tag": "a",
+      "classes": [
+        "link-large",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-large w-inline-block\" data-w-id=\"64c993f7-4943-d543-dc57-ffb19f2ae0f3\" href=\"/about\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">À propos</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">À propos</div></div></a>"
+    },
+    {
+      "w_id": "64c993f7-4943-d543-dc57-ffb19f2ae0f3",
+      "tag": "a",
+      "classes": [
+        "link-large",
+        "w-inline-block",
+        "w--current"
+      ],
+      "html": "<a aria-current=\"page\" class=\"link-large w-inline-block w--current\" data-w-id=\"64c993f7-4943-d543-dc57-ffb19f2ae0f3\" href=\"/models\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Modèles</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Modèles</div></div></a>"
+    },
+    {
+      "w_id": "64c993f7-4943-d543-dc57-ffb19f2ae0f3",
+      "tag": "a",
+      "classes": [
+        "link-large",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-large w-inline-block\" data-w-id=\"64c993f7-4943-d543-dc57-ffb19f2ae0f3\" href=\"/blog\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Blog</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Blog</div></div></a>"
+    },
+    {
+      "w_id": "64c993f7-4943-d543-dc57-ffb19f2ae0f3",
+      "tag": "a",
+      "classes": [
+        "link-large",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-large w-inline-block\" data-w-id=\"64c993f7-4943-d543-dc57-ffb19f2ae0f3\" href=\"/contact\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Contact</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Contact</div></div></a>"
+    },
+    {
+      "w_id": "807e3a6e-cc58-e179-226e-1e5adc540de3",
+      "tag": "a",
+      "classes": [
+        "secondary-button",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"secondary-button w-inline-block\" data-w-id=\"807e3a6e-cc58-e179-226e-1e5adc540de3\" href=\"/contact\" tabindex=\"0\"><div class=\"link-content-wrapper\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Réserver maintenant</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Réserver maintenant</div></div><div class=\"secondary-link-square\"><div class=\"link-arrow-wrapper\"><img "
+    },
+    {
+      "w_id": "d2cdfd10-eacd-d2da-f3db-8d46bd8a8f98",
+      "tag": "div",
+      "classes": [
+        "model-filters"
+      ],
+      "html": "<div class=\"model-filters\" data-w-id=\"d2cdfd10-eacd-d2da-f3db-8d46bd8a8f98\" style=\"opacity: 1; transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><div class=\"heading-subheadline\"><div class=\"subheadline\"><div class=\"subheadline-line\"></div><div>Modèles</div></div><h2 class=\"pure-color-text\">LOC IDF 93 Modèles</h2></div><div class=\"filters\"><div class=\"filter-item\"><div class=\"filter-dropdown w-dropdown\" data-d"
+    },
+    {
+      "w_id": "88911916-95f4-77ad-6685-e5b35b4564ac",
+      "tag": "div",
+      "classes": [
+        "filter-dropdown",
+        "w-dropdown"
+      ],
+      "html": "<div class=\"filter-dropdown w-dropdown\" data-delay=\"0\" data-hover=\"false\" data-w-id=\"88911916-95f4-77ad-6685-e5b35b4564ac\"><div aria-controls=\"w-dropdown-list-2\" aria-expanded=\"false\" aria-haspopup=\"menu\" class=\"filter-dropdown-toggle w-dropdown-toggle\" id=\"w-dropdown-toggle-2\" role=\"button\" tabindex=\"0\"><div>Model Brand</div><img alt=\"Bottom Arrow Icon\" class=\"filter-dropdown-icon\" loading=\"lazy\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6887617f98a5ae9ff07b5089_ace704766"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-brands/luxora\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Luxora</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Luxora</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-brands/velox\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Velox</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Velox</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-brands/aurion\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Aurion</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Aurion</div></div></a>"
+    },
+    {
+      "w_id": "88911916-95f4-77ad-6685-e5b35b4564ba",
+      "tag": "div",
+      "classes": [
+        "filter-dropdown",
+        "w-dropdown"
+      ],
+      "html": "<div class=\"filter-dropdown w-dropdown\" data-delay=\"0\" data-hover=\"false\" data-w-id=\"88911916-95f4-77ad-6685-e5b35b4564ba\"><div aria-controls=\"w-dropdown-list-3\" aria-expanded=\"false\" aria-haspopup=\"menu\" class=\"filter-dropdown-toggle w-dropdown-toggle\" id=\"w-dropdown-toggle-3\" role=\"button\" tabindex=\"0\"><div>Model Type</div><img alt=\"Bottom Arrow Icon\" class=\"filter-dropdown-icon\" loading=\"lazy\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6887617f98a5ae9ff07b5089_ace704766c"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-types/coupe\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Coupe</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Coupe</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-types/sedan\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Sedan</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Sedan</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-types/suv\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">SUV</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">SUV</div></div></a>"
+    },
+    {
+      "w_id": "88911916-95f4-77ad-6685-e5b35b4564c8",
+      "tag": "div",
+      "classes": [
+        "filter-dropdown",
+        "w-dropdown"
+      ],
+      "html": "<div class=\"filter-dropdown w-dropdown\" data-delay=\"0\" data-hover=\"false\" data-w-id=\"88911916-95f4-77ad-6685-e5b35b4564c8\"><div aria-controls=\"w-dropdown-list-4\" aria-expanded=\"false\" aria-haspopup=\"menu\" class=\"filter-dropdown-toggle w-dropdown-toggle\" id=\"w-dropdown-toggle-4\" role=\"button\" tabindex=\"0\"><div>Model Feature</div><img alt=\"Bottom Arrow Icon\" class=\"filter-dropdown-icon\" loading=\"lazy\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6887617f98a5ae9ff07b5089_ace7047"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/sound-system\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Sound System</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Sound System</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/leather-seats\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Leather Seats</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Leather Seats</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/built-in-gps\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Built-in GPS</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Built-in GPS</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/360deg-camera\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">360° Camera</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">360° Camera</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/bluetooth\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Bluetooth</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Bluetooth</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/sunroof-6rm2o-xlnu2\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Sunroof</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Sunroof</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/model-features/led-headlights\" tabindex=\"0\"><div class=\"link-text-wrapper\"><div class=\"link-text\">LED Headlights</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">LED Headlights</div></div></a>"
+    },
+    {
+      "w_id": "e406e786-463c-c35b-2ff9-f56271b6e31c",
+      "tag": "div",
+      "classes": [
+        "collection-item",
+        "w-dyn-item"
+      ],
+      "html": "<div class=\"collection-item w-dyn-item\" data-w-id=\"e406e786-463c-c35b-2ff9-f56271b6e31c\" role=\"listitem\" style=\"opacity: 0; transform: translate3d(0px, 10%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/rapt-horizon.html\"><div class=\"model-card-image\"><img alt=\"Rapt Horizon\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https"
+    },
+    {
+      "w_id": "d3beb5b9-5a47-a3a5-4868-c07dedffb508",
+      "tag": "a",
+      "classes": [
+        "model-card",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/rapt-horizon.html\"><div class=\"model-card-image\"><img alt=\"Rapt Horizon\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7eca3b34d2e8df938a4b_raptor-horizon.webp\" srcset=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7eca3b34d2e8df938a4b_raptor-horizon-p-500.webp 500w, https://cdn.prod.website-files.com/686b7dabf"
+    },
+    {
+      "w_id": "e406e786-463c-c35b-2ff9-f56271b6e31c",
+      "tag": "div",
+      "classes": [
+        "collection-item",
+        "w-dyn-item"
+      ],
+      "html": "<div class=\"collection-item w-dyn-item\" data-w-id=\"e406e786-463c-c35b-2ff9-f56271b6e31c\" role=\"listitem\" style=\"opacity: 0; transform: translate3d(0px, 10%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/velocit-crest.html\"><div class=\"model-card-image\"><img alt=\"Velocit Crest\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"htt"
+    },
+    {
+      "w_id": "d3beb5b9-5a47-a3a5-4868-c07dedffb508",
+      "tag": "a",
+      "classes": [
+        "model-card",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/velocit-crest.html\"><div class=\"model-card-image\"><img alt=\"Velocit Crest\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7df608019c9b041ab7db_velocity-crest.webp\" srcset=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7df608019c9b041ab7db_velocity-crest-p-500.webp 500w, https://cdn.prod.website-files.com/686b7da"
+    },
+    {
+      "w_id": "e406e786-463c-c35b-2ff9-f56271b6e31c",
+      "tag": "div",
+      "classes": [
+        "collection-item",
+        "w-dyn-item"
+      ],
+      "html": "<div class=\"collection-item w-dyn-item\" data-w-id=\"e406e786-463c-c35b-2ff9-f56271b6e31c\" role=\"listitem\" style=\"opacity: 0; transform: translate3d(0px, 10%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/xplorer-glide.html\"><div class=\"model-card-image\"><img alt=\"Xplorer Glide\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"htt"
+    },
+    {
+      "w_id": "d3beb5b9-5a47-a3a5-4868-c07dedffb508",
+      "tag": "a",
+      "classes": [
+        "model-card",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/xplorer-glide.html\"><div class=\"model-card-image\"><img alt=\"Xplorer Glide\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7c9896946e6903f1ce81_xplorer-glide.webp\" srcset=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7c9896946e6903f1ce81_xplorer-glide-p-500.webp 500w, https://cdn.prod.website-files.com/686b7dabf"
+    },
+    {
+      "w_id": "e406e786-463c-c35b-2ff9-f56271b6e31c",
+      "tag": "div",
+      "classes": [
+        "collection-item",
+        "w-dyn-item"
+      ],
+      "html": "<div class=\"collection-item w-dyn-item\" data-w-id=\"e406e786-463c-c35b-2ff9-f56271b6e31c\" role=\"listitem\" style=\"opacity: 0.01885; transform: translate3d(0px, 9.8115%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: opacity, transform;\"><a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/cest-tunder.html\"><div class=\"model-card-image\"><img alt=\"Cest Tunder\" class=\"image-default\""
+    },
+    {
+      "w_id": "d3beb5b9-5a47-a3a5-4868-c07dedffb508",
+      "tag": "a",
+      "classes": [
+        "model-card",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/cest-tunder.html\"><div class=\"model-card-image\"><img alt=\"Cest Tunder\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7b026be181cd253bea32_crest-thunder.webp\" srcset=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7b026be181cd253bea32_crest-thunder-p-500.webp 500w, https://cdn.prod.website-files.com/686b7dabffa8d"
+    },
+    {
+      "w_id": "e406e786-463c-c35b-2ff9-f56271b6e31c",
+      "tag": "div",
+      "classes": [
+        "collection-item",
+        "w-dyn-item"
+      ],
+      "html": "<div class=\"collection-item w-dyn-item\" data-w-id=\"e406e786-463c-c35b-2ff9-f56271b6e31c\" role=\"listitem\" style=\"opacity: 0.01885; transform: translate3d(0px, 9.8115%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: opacity, transform;\"><a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/glide-vortex.html\"><div class=\"model-card-image\"><img alt=\"Glide Vortex\" class=\"image-defaul"
+    },
+    {
+      "w_id": "d3beb5b9-5a47-a3a5-4868-c07dedffb508",
+      "tag": "a",
+      "classes": [
+        "model-card",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/glide-vortex.html\"><div class=\"model-card-image\"><img alt=\"Glide Vortex\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7a28adef37939d8c0ebc_glide-vortex.webp\" srcset=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f7a28adef37939d8c0ebc_glide-vortex-p-500.webp 500w, https://cdn.prod.website-files.com/686b7dabffa8d"
+    },
+    {
+      "w_id": "e406e786-463c-c35b-2ff9-f56271b6e31c",
+      "tag": "div",
+      "classes": [
+        "collection-item",
+        "w-dyn-item"
+      ],
+      "html": "<div class=\"collection-item w-dyn-item\" data-w-id=\"e406e786-463c-c35b-2ff9-f56271b6e31c\" role=\"listitem\" style=\"opacity: 0; transform: translate3d(0px, 10%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/sumit-senity.html\"><div class=\"model-card-image\"><img alt=\"Sumit Senity\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https"
+    },
+    {
+      "w_id": "d3beb5b9-5a47-a3a5-4868-c07dedffb508",
+      "tag": "a",
+      "classes": [
+        "model-card",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"model-card w-inline-block\" data-w-id=\"d3beb5b9-5a47-a3a5-4868-c07dedffb508\" href=\"models/sumit-senity.html\"><div class=\"model-card-image\"><img alt=\"Sumit Senity\" class=\"image-default\" loading=\"eager\" sizes=\"100vw\" src=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f795756461966fea95229_summit-serenity.webp\" srcset=\"https://cdn.prod.website-files.com/686b7dabffa8d3d4fbc33439/686f795756461966fea95229_summit-serenity-p-500.webp 500w, https://cdn.prod.website-files.com/686b7da"
+    },
+    {
+      "w_id": "3ebaec18-ed75-6752-05aa-f0892190f4ec",
+      "tag": "div",
+      "classes": [
+        "w-pagination-wrapper",
+        "pagination-content"
+      ],
+      "html": "<div aria-label=\"List\" class=\"w-pagination-wrapper pagination-content\" data-w-id=\"3ebaec18-ed75-6752-05aa-f0892190f4ec\" role=\"navigation\" style=\"opacity: 0; transform: translate3d(0px, 10%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\"><a aria-label=\"Suivant Page\" class=\"w-pagination-next pagination-button-next\" data-w-id=\"3ebaec18-ed75-6752-05aa-f0892190f4f1\" href=\"?47cf5733_page=2\"><div class=\"link-content-wrapper\"><div class=\"lin"
+    },
+    {
+      "w_id": "3ebaec18-ed75-6752-05aa-f0892190f4f1",
+      "tag": "a",
+      "classes": [
+        "w-pagination-next",
+        "pagination-button-next"
+      ],
+      "html": "<a aria-label=\"Suivant Page\" class=\"w-pagination-next pagination-button-next\" data-w-id=\"3ebaec18-ed75-6752-05aa-f0892190f4f1\" href=\"?47cf5733_page=2\"><div class=\"link-content-wrapper\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Suivant</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Suivant</div></div><div class=\"secondary-link-square\"><div class=\"link-a"
+    },
+    {
+      "w_id": "ccf85ef1-a042-6e8f-dd81-b1edbd32c2ac",
+      "tag": "div",
+      "classes": [
+        "footer-content"
+      ],
+      "html": "<div class=\"footer-content\" data-w-id=\"ccf85ef1-a042-6e8f-dd81-b1edbd32c2ac\" style=\"opacity: 0;\"><div class=\"footer-top\"><div class=\"footer-cta\"><div class=\"footer-logo-link\"><a class=\"logo-link w-nav-brand\" data-w-id=\"409930be-4b6f-4aa7-5796-348a5654b660\" href=\"/\"><div class=\"link-text-wrapper\"><img alt=\"Logo\" class=\"link-text\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6863a7d749380244400cadf0_ec84ea29b2cc7723b4b9b2449bd3b59c_logo.svg\"/><img alt=\"Logo\" cla"
+    },
+    {
+      "w_id": "409930be-4b6f-4aa7-5796-348a5654b660",
+      "tag": "a",
+      "classes": [
+        "logo-link",
+        "w-nav-brand"
+      ],
+      "html": "<a class=\"logo-link w-nav-brand\" data-w-id=\"409930be-4b6f-4aa7-5796-348a5654b660\" href=\"/\"><div class=\"link-text-wrapper\"><img alt=\"Logo\" class=\"link-text\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6863a7d749380244400cadf0_ec84ea29b2cc7723b4b9b2449bd3b59c_logo.svg\"/><img alt=\"Logo\" class=\"link-text-hover\" loading=\"eager\" src=\"https://cdn.prod.website-files.com/6856afca69c1086451cbfd3c/6863a7d749380244400cadf0_ec84ea29b2cc7723b4b9b2449bd3b59c_logo.svg\" style"
+    },
+    {
+      "w_id": "807e3a6e-cc58-e179-226e-1e5adc540de3",
+      "tag": "a",
+      "classes": [
+        "secondary-button",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"secondary-button w-inline-block\" data-w-id=\"807e3a6e-cc58-e179-226e-1e5adc540de3\" href=\"/contact\"><div class=\"link-content-wrapper\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Réserver maintenant</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Réserver maintenant</div></div><div class=\"secondary-link-square\"><div class=\"link-arrow-wrapper\"><img alt=\"Right Ar"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Accueil</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Accueil</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/about\"><div class=\"link-text-wrapper\"><div class=\"link-text\">À propos</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">À propos</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block",
+        "w--current"
+      ],
+      "html": "<a aria-current=\"page\" class=\"link-medium w-inline-block w--current\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/models\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Modèles</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Modèles</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/blog\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Blog</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Blog</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/contact\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Contact</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Contact</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"https://instagram.com/\" target=\"_blank\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Instagram</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Instagram</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"https://x.com/\" target=\"_blank\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Twitter (X)</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Twitter (X)</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"https://youtube.com/\" target=\"_blank\"><div class=\"link-text-wrapper\"><div class=\"link-text\">YouTube</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">YouTube</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"tel:+33621432930\"><div class=\"link-text-wrapper\"><div class=\"link-text\">06 21 43 29 30</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">06 21 43 29 30</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"mailto:info@loc-idf-93.com\"><div class=\"link-text-wrapper\"><div class=\"link-text\">info@loc-idf-93.com</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">info@loc-idf-93.com</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"https://webflow.com/\" target=\"_blank\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Webflow</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Webflow</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"https://webflow.com/templates/designers/am-templates\" target=\"_blank\"><div class=\"link-text-wrapper\"><div class=\"link-text\">AM Templates</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">AM Templates</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/style-guide\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Guide de style</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Guide de style</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/licenses\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Licences</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Licences</div></div></a>"
+    },
+    {
+      "w_id": "c9a2d98c-6b89-8643-8d56-6f8c30cc91b7",
+      "tag": "a",
+      "classes": [
+        "link-medium",
+        "w-inline-block"
+      ],
+      "html": "<a class=\"link-medium w-inline-block\" data-w-id=\"c9a2d98c-6b89-8643-8d56-6f8c30cc91b7\" href=\"/changelog\"><div class=\"link-text-wrapper\"><div class=\"link-text\">Journal des modifications</div><div class=\"link-text-hover\" style=\"transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(-90deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;\">Journal des modifications</div></div></a>"
+    }
+  ],
+  "interactions": []
+}
